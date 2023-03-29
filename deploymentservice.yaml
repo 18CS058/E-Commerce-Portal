@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: parinitha99/myapp:latest
+        image: parinitha99/myapp1:latest
         ports:
         - containerPort: 3000
         
